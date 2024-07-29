@@ -12,4 +12,4 @@ ZON (Zig Object Notation) is a simple data format, which uses Zig's anonymous st
 
 [Zon Hub](https://hub.zon.dev/) Zon Hub hosting excellent [Zig](https://ziglang.org/) packages.
 
-[zig.wiki](https://www.zig.wiki/) An encyclopedia about zig.
+[zig.wiki](http://www.zig.wiki/) An encyclopedia about zig.
