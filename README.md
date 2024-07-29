@@ -11,3 +11,5 @@ ZON (Zig Object Notation) is a simple data format, which uses Zig's anonymous st
 [Zinc](https://zinc.zon.dev/) is a high-performance web framework written in [Zig](https://ziglang.org/).
 
 [Zon Hub](https://hub.zon.dev/) Zon Hub hosting excellent [Zig](https://ziglang.org/) packages.
+
+[zig.wiki](https://www.zig.wiki/) An encyclopedia about zig.
